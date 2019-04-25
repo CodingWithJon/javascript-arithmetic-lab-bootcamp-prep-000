@@ -40,5 +40,6 @@ return q
 }
 
 function preserveDecimal(n){
-  return parseFloat('Hello')
+  var q =  parseFloat('Hello')
+  return q
 }
