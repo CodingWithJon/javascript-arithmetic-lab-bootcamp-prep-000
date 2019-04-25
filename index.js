@@ -29,7 +29,7 @@ function makeInt(n){
  return q
 }
 
-function makeInt(n){ 
+function makeInt2(n){ 
  var q = parseInt('HELLO',10)
  return q
 }
@@ -39,7 +39,7 @@ var q =  parseFloat(n)
 return q
 }
 
-function preserveDecimal(n){
+function preserveDecimal2(n){
   var q =  parseFloat('Hello')
   return q
 }
