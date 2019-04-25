@@ -25,11 +25,13 @@ function dec(n){
 }
 
 function makeInt(n){
- return parseInt(n)
+ var q = parseInt(n)
+ return q
 }
 
-function makeInt(n){
- return parseInt("HELLO")
+function makeInt(n){ 
+ var q = parseInt("HELLO")
+ return q
 }
 
 function preserveDecimal(n){
