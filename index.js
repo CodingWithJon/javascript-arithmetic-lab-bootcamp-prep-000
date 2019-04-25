@@ -30,7 +30,7 @@ function makeInt(n){
 }
 
 function makeInt(n){ 
- var q = parseInt("HELLO")
+ var q = parseInt('HELLO',10)
  return q
 }
 
